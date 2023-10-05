@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Gallois</title>
+    <link>https://gallois.github.io/</link>
+    <description>Recent content on Felipe Gallois</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://gallois.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Felipe Gallois</title>
+      <link>https://gallois.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gallois.github.io/</guid>
+      <description>Hey, it&amp;rsquo;s me.
+Where to find me
+LinkedIn GitHub A few projects to keep myself entertained
+The Workout Calculator pt-br
+Calculadora de Exercícios Não Muito PQ (soon) </description>
+    </item>
+    
+  </channel>
+</rss>
