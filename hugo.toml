@@ -1,0 +1,4 @@
+baseURL = 'https://gallois.github.io/'
+languageCode = 'en-us'
+title = 'Felipe Gallois'
+theme = "hugo-simplecss"
