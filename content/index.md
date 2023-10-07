@@ -15,4 +15,4 @@ Where to find me
 *pt-br*
 - [Calculadora de Exercícios](https://www.calculadoradeexercicios.com.br/)
 - [Não Muito](https://naomuito.gallois.com.br/)
-- [PQ (soon)](https://pq.gallois.com.br)
+- [PQ](https://pq.gallois.com.br)
